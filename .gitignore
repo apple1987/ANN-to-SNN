@@ -1,0 +1,5 @@
+config_*
+mobilenet_cifar10*
+vgg_cifar10*
+log*
+*.pyc
